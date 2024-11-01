@@ -1,7 +1,7 @@
 {
-    "id": "18868996-814B-48E1-9B9C-E631954A0F6C",
+    "id": "A9F017F3-47BC-44CB-BBF6-A88BC557DCAD",
     "name": "installspark",
-    "friendlyName": "Install Spark",
+    "friendlyName": "Install Spark 2024",
     "description": "Installs Spark on the Agent",
     "helpMarkDown": "",
     "category": "Utility",
@@ -23,7 +23,7 @@
         }
     ],
     "execution": {
-        "Node": {
+        "Node16": {
             "target": "installSpark.js"
         }
     }

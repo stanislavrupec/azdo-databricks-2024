@@ -1,7 +1,7 @@
 {
-    "id": "7BC87BAA-E828-4B94-81D5-1DFD0FC736AF",
+    "id": "860C835C-86FF-4539-B2E7-73F00741D23A",
     "name": "startcluster",
-    "friendlyName": "Start a Databricks Cluster",
+    "friendlyName": "Start a Databricks Cluster 2024",
     "description": "Make sure a Databricks Cluster is started",
     "helpMarkDown": "",
     "category": "Utility",
@@ -31,7 +31,7 @@
         }
     ],
     "execution": {
-        "Node": {
+        "Node16": {
             "target": "startCluster.js"
         }
     }

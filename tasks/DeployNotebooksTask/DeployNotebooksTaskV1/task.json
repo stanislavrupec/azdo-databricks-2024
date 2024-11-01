@@ -1,5 +1,5 @@
 {
-    "id": "5AB0C91F-182C-4CC9-9098-6EDCC91F3134",
+    "id": "5AD8725C-B8F0-484E-8B35-A0004DE71633",
     "name": "deploynotebooks2024",
     "friendlyName": "Deploy Databricks Notebooks 2024",
     "description": "Recursively deploys Notebooks from given folder to a Databricks Workspace",
@@ -31,7 +31,7 @@
         }
     ],
     "execution": {
-        "Node20": {
+        "Node16": {
             "target": "index.js"
         }
     }

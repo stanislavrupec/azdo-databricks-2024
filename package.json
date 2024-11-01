@@ -1,5 +1,5 @@
 {
-  "name": "azdo-databricks",
+  "name": "azdo-databricks-2024",
   "version": "0.1.0",
   "description": "A set of Pipeline tasks to help add DevOps practices to a Databricks development cycle.  Version 2024",
   "dependencies": {
@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/azdo-databricks.git"
+    "url": "git+https://https://github.com/stanislavrupec/azdo-databricks-2024.git"
   },
   "keywords": [
     "azdo",

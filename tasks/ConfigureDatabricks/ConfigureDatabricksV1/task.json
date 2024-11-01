@@ -1,5 +1,5 @@
 {
-    "id": "3830AA71-0BFB-45BD-AE00-6E82C877DEAE",
+    "id": "E02267CC-CE4A-42AD-BD79-304273C83AA5",
     "name": "configuredatabricks2024",
     "friendlyName": "Configure Databricks 2024",
     "description": "Configure Databricks CLI 2024",
@@ -31,7 +31,7 @@
         }
     ],
     "execution": {
-        "Node20": {
+        "Node16": {
             "target": "index.js"
         }
     }

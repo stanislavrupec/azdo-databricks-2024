@@ -1,7 +1,7 @@
 {
-    "id": "80B1D811-47F2-4574-B584-4326C5292F23",
+    "id": "168BBF0E-0F0D-4490-BC56-F20BA4BBFF6E",
     "name": "compileinstalljar",
-    "friendlyName": "Compiles and Installs JAR using SBT",
+    "friendlyName": "Compiles and Installs JAR using SBT 2024",
     "description": "Compiles and Installs JAR using SBT",
     "helpMarkDown": "",
     "category": "Utility",
@@ -90,7 +90,7 @@
         }
     ],
     "execution": {
-        "Node": {
+        "Node16": {
             "target": "compileinstalljar.js"
         }
     }

@@ -1,7 +1,7 @@
 {
-    "id": "5C5C32EE-52EE-4B91-9EF6-B48F965F30E2",
+    "id": "9909F007-B2EE-4B7E-8143-DF240232069D",
     "name": "installscalatools",
-    "friendlyName": "Install Scala Tools",
+    "friendlyName": "Install Scala Tools 2024",
     "description": "Installs Java, Scala and SBT",
     "helpMarkDown": "",
     "category": "Utility",
@@ -23,7 +23,7 @@
         }
     ],
     "execution": {
-        "Node": {
+        "Node16": {
             "target": "installScalaTools.js"
         }
     }

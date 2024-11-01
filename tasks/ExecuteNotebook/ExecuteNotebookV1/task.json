@@ -1,5 +1,5 @@
 {
-    "id": "AC263826-C64E-4F2D-B7CE-5F7E777FD8BC",
+    "id": "99F7BD1C-A83B-475E-A73C-E2BC4B55F978",
     "name": "executenotebook2024",
     "friendlyName": "Execute Databricks Notebook 2024",
     "description": "Invokes a Databricks Notebook execution from a Workspace",
@@ -39,7 +39,7 @@
         }
     ],
     "execution": {
-        "Node20": {
+        "Node16": {
             "target": "executeNotebook.js"
         }
     }

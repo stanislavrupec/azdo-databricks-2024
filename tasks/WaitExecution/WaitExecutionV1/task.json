@@ -1,7 +1,7 @@
 {
-    "id": "F759BD8D-4303-4888-B473-3154B28879D2",
+    "id": "8210DDAF-CD5D-4D38-9CE7-2AC5E1E04B77",
     "name": "waitexecution",
-    "friendlyName": "Wait for Databricks Notebook execution",
+    "friendlyName": "Wait for Databricks Notebook execution 2024",
     "description": "Wait for a notebook execution to be finished and exposes the result as a task result",
     "helpMarkDown": "",
     "category": "Utility",
@@ -14,7 +14,7 @@
     "instanceNameFormat": "Wait for Notebook execution",
     "inputs": [],
     "execution": {
-        "Node": {
+        "Node16": {
             "target": "waitexecution.js"
         }
     }

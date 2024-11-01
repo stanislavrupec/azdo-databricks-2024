@@ -1,7 +1,7 @@
 {
-    "id": "75E7F77C-8FF4-4B1C-A993-276ECC5922D2",
+    "id": "F9F74755-C92C-48D6-B6A2-D56E052D0EBB",
     "name": "waitforclusterreboot",
-    "friendlyName": "Wait for Cluster Reboot",
+    "friendlyName": "Wait for Cluster Reboot 2024",
     "description": "Wait for a reboot of a given cluster",
     "helpMarkDown": "",
     "category": "Utility",
@@ -31,7 +31,7 @@
         }
     ],
     "execution": {
-        "Node": {
+        "Node16": {
             "target": "waitforclusterreboot.js"
         }
     }

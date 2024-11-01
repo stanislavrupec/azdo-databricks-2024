@@ -1,7 +1,7 @@
 {
-    "id": "F8A140D7-A179-4D5A-99D4-35ADBE6D5081",
+    "id": "051FE6C1-F151-4106-A3D3-01339AD6D8AC",
     "name": "runsbttests",
-    "friendlyName": "Run SBT Tests",
+    "friendlyName": "Run SBT Tests 2024",
     "description": "Run SBT Tests on a given folder",
     "helpMarkDown": "",
     "category": "Utility",
@@ -39,7 +39,7 @@
         }
     ],
     "execution": {
-        "Node": {
+        "Node16": {
             "target": "runsbttests.js"
         }
     }

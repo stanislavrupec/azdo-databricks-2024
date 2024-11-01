@@ -1,7 +1,7 @@
 {
-    "id": "321777DA-E4FF-4E80-A534-D2A25B8A33B2",
+    "id": "3E1B4750-5B50-4FBA-A8E1-5F30B72E70D4",
     "name": "uninstallcodefromcluster",
-    "friendlyName": "Uninstall Spark Code from Cluster",
+    "friendlyName": "Uninstall Spark Code from Cluster 2024",
     "description": "Removes old Spark code and reboots cluster",
     "helpMarkDown": "",
     "category": "Utility",
@@ -39,7 +39,7 @@
         }
     ],
     "execution": {
-        "Node": {
+        "Node16": {
             "target": "uninstallcodefromcluster.js"
         }
     }
