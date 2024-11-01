@@ -1,7 +1,7 @@
 {
   "name": "azdo-databricks",
   "version": "0.1.0",
-  "description": "A set of Pipeline tasks to help add DevOps practices to a Databricks development cycle.",
+  "description": "A set of Pipeline tasks to help add DevOps practices to a Databricks development cycle.  Version 2024",
   "dependencies": {
     "azure-pipelines-task-lib": "^2.8.0",
     "recursive-install": "^1.4.0"

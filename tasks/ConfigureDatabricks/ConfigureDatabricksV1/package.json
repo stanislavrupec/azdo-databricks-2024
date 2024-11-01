@@ -1,7 +1,7 @@
 {
   "name": "configuredatabricks",
   "version": "0.1.0",
-  "description": "Configure Databricks CLI for later tasks",
+  "description": "Configure Databricks CLI for later tasks 2024",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

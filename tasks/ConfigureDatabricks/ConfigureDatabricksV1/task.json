@@ -1,8 +1,8 @@
 {
     "id": "3830AA71-0BFB-45BD-AE00-6E82C877DEAE",
-    "name": "configuredatabricks",
-    "friendlyName": "Configure Databricks",
-    "description": "Configure Databricks CLI",
+    "name": "configuredatabricks2024",
+    "friendlyName": "Configure Databricks 2024",
+    "description": "Configure Databricks CLI 2024",
     "helpMarkDown": "",
     "category": "Utility",
     "author": "Microsoft DevLabs",
@@ -11,7 +11,7 @@
         "Minor": 1,
         "Patch": 0
     },
-    "instanceNameFormat": "Configure Databricks CLI",
+    "instanceNameFormat": "Configure Databricks CLI 2024",
     "inputs": [
         {
             "name": "url",
@@ -31,7 +31,7 @@
         }
     ],
     "execution": {
-        "Node": {
+        "Node20": {
             "target": "index.js"
         }
     }
